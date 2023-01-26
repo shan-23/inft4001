@@ -19,3 +19,11 @@ I am trying to practice on Github
 My W number is W0455447
 My email: lelacerda100@gmail.com
 
+------------------------------------------
+
+👋 Hi, I’m @Jazmine 
+👀 I’m interested in ... anything to solve a problem
+🌱 I’m currently learning ... HTML, CSS, Bootstrap, Git and Github
+💞️ I’m looking to collaborate on ... data related task
+📫 How to reach me ... -jazminengaji@gmail.com-
+💞️ Thank you  💞️💞️💞️💞️💞️💞️💞️
