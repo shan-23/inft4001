@@ -13,3 +13,9 @@ Class: Copy and paste the above and fill it with your own information and then c
 🌱 I’m currently learning ... -Python and SQL-
 💞️ I’m looking to collaborate on ... -On any project to better practice my skills-
 📫 How to reach me ... -W0477158@nscc.ca-
+=======
+Hi, I'm Leandro
+I am trying to practice on Github
+My W number is W0455447
+My email: lelacerda100@gmail.com
+
