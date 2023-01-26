@@ -12,3 +12,30 @@ Hi, I'm Leandro
 I am trying to practice on Github
 My W number is W0455447
 My email: lelacerda100@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+👋 Hi, I’m @luke_knock
+👀 I’m interested in ... -Sports, music and gaming-
+🌱 I’m currently learning ... - SSIS, Python and Git -
+💞️ I’m looking to collaborate on ... - Learning this websites basics -
+📫 How to reach me ... -lukemknock@gmail.com-
