@@ -8,34 +8,22 @@
 
 Class: Copy and paste the above and fill it with your own information and then commit back to here. Clone this repository. If you run into conflicts, correct them.
 
+👋 Hi, I’m @Piettro314
+👀 I’m interested in ... -Nature, fitness and video games-
+🌱 I’m currently learning ... -Python and SQL-
+💞️ I’m looking to collaborate on ... -On any project to better practice my skills-
+📫 How to reach me ... -W0477158@nscc.ca-
+=======
 Hi, I'm Leandro
 I am trying to practice on Github
 My W number is W0455447
 My email: lelacerda100@gmail.com
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 👋 Hi, I’m @luke_knock
 👀 I’m interested in ... -Sports, music and gaming-
 🌱 I’m currently learning ... - SSIS, Python and Git -
 💞️ I’m looking to collaborate on ... - Learning this websites basics -
 📫 How to reach me ... -lukemknock@gmail.com-
+=======
+
