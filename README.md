@@ -20,3 +20,35 @@ My W number is W0455447
 My email: lelacerda100@gmail.com
 W0482545
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hi, I’m @patanley
+👀 I’m interested in all things -finance-
+🌱 I’m currently learning -business analytics-
+💞️ I’m looking to collaborate on -soccer analytis-
+📫 How to reach me ... -patanley09@mail.com-
