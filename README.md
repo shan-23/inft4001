@@ -23,6 +23,6 @@ My email: lelacerda100@gmail.com
 👋 Hi, I’m @Barb2023
 👀 I’m interested in ... - Cooking, running , soju
 🌱 I’m currently learning ... - Everything about Data Science, ETL and Git-
-💞️ I’m looking to collaborate on ... -Anything-
+💞️ I’m looking to collaborate on ... -Projects and Business Ideas-
 📫 How to reach me ... -barbieafrancisco@gmail.com-
 
