@@ -19,7 +19,7 @@ I am trying to practice on Github
 My W number is W0455447
 My email: lelacerda100@gmail.com
 W0482545
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 👋 Hi, I’m @Jie Zheng
 👀 I’m interested in ... -Hiking, Jogging, and Travelling-
 🌱 I’m currently learning ... -BIA Course-
