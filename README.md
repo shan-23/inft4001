@@ -20,3 +20,9 @@ My W number is W0455447
 My email: lelacerda100@gmail.com
 W0482545
 
+👋 Hi, I’m @MiaPham051328
+👀 I’m interested in ... -everything, especially sleeping-
+🌱 I’m currently learning ...-Python, ETL and Github-
+💞️ I’m looking to collaborate on ... -ETL, Python and Github to complete my course-
+📫 How to reach me ... -miapham051328@gmail.com-
+
