@@ -20,3 +20,10 @@ My W number is W0455447
 My email: lelacerda100@gmail.com
 W0482545
 
+====================================
+
+Hi, I'm Jude 
+I enjoy coding and development
+My W number is W0474724
+My email: juud0010@gmail.com
+W0474724
