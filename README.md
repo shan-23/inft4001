@@ -19,6 +19,13 @@ I am trying to practice on Github
 My W number is W0455447
 My email: lelacerda100@gmail.com
 W0482545
+----
+👋 Hi, I’m @halethithu
+👀 I’m interested in learning new things, nature, reading
+🌱 I’m currently learning data analytics
+💞️ I’m looking to collaborate on whatever it takes
+📫 How to reach me le.thuha46@gmail.com
+W0449309
 
 
 👋 Hi, I’m @MiaPham051328
