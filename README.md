@@ -21,6 +21,13 @@ My email: lelacerda100@gmail.com
 W0482545
 
 
+👋 Hi, I’m @MiaPham051328
+👀 I’m interested in ... -everything, especially sleeping-
+🌱 I’m currently learning ...-Python, ETL and Github-
+💞️ I’m looking to collaborate on ... -ETL, Python and Github to complete my course-
+📫 How to reach me ... -miapham051328@gmail.com-
+
+
 
 👋 Hi, I’m @Jazmine 
 👀 I’m interested in ... anything to solve a problem
@@ -61,5 +68,6 @@ W0474724
 🌱 I’m currently learning ... - Everything about Data Science, ETL and Git-
 💞️ I’m looking to collaborate on ... -Projects and Business Ideas-
 📫 How to reach me ... -barbieafrancisco@gmail.com-
+
 
 
