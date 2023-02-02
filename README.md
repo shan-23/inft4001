@@ -90,3 +90,9 @@ W0474724
 💞️ I’m looking to collaborate on ... -Data process in various industries-
 📫 How to reach me ... -teketsu1205@gmail.com-
 
+
+👋 Hi, I’m @Maryann
+👀 I’m interested in ... -Travels, Food, and Music-
+🌱 I’m currently learning ... -Business Intelligence and Analytics-
+💞️ I’m looking to collaborate on ... -projects to help improve and develop my skills-
+📫 How to reach me ... -aishaakinyera@gmail.com-
