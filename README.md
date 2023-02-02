@@ -18,10 +18,17 @@ Hi, I'm Leandro
 I am trying to practice on Github
 My W number is W0455447
 My email: lelacerda100@gmail.com
+W0482545
 
-==========
 Hi Sanjay was here
-
 My W number is W0482545
 My email: Sanjaymehta615@gmail.com
+
+
+Hi, I'm Jude 
+I enjoy coding and development
+My W number is W0474724
+My email: juud0010@gmail.com
+W0474724
+
 
