@@ -20,6 +20,16 @@ My W number is W0455447
 My email: lelacerda100@gmail.com
 W0482545
 
+
+
+👋 Hi, I’m @Jazmine 
+👀 I’m interested in ... anything to solve a problem
+🌱 I’m currently learning ... HTML, CSS, Bootstrap, Git and Github
+💞️ I’m looking to collaborate on ... data related task
+📫 How to reach me ... -jazminengaji@gmail.com-
+💞️ Thank you  💞️💞️💞️💞️💞️💞️💞️
+
+
 Hi, I’m @patanley
 👀 I’m interested in all things -finance-
 🌱 I’m currently learning -business analytics-
@@ -37,4 +47,5 @@ I enjoy coding and development
 My W number is W0474724
 My email: juud0010@gmail.com
 W0474724
+
 
