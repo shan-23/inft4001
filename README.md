@@ -62,4 +62,8 @@ W0474724
 💞️ I’m looking to collaborate on ... -Projects and Business Ideas-
 📫 How to reach me ... -barbieafrancisco@gmail.com-
 
-
+👋 Hi, I’m @Jie Zheng
+👀 I’m interested in ... - Hiking, jogging
+🌱 I’m currently learning ... - BIA course-
+💞️ I’m looking to collaborate on ... -Data process in various industries-
+📫 How to reach me ... -teketsu1205@gmail.com-
