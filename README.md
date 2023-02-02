@@ -56,6 +56,13 @@ My email: juud0010@gmail.com
 W0474724
 
 
+👋 Hi, Sanjay was here
+👀 I’m interested in ... -all things internet-
+🌱 I’m currently learning ... -Data analysis
+💞️ I’m looking forward to graduate
+📫 How to reach me ... sanjaymehta615@gmail.com
+
+
 
 👋 Hi, I’m @luke_knock
 👀 I’m interested in ... -Sports, music and gaming-
@@ -68,6 +75,4 @@ W0474724
 🌱 I’m currently learning ... - Everything about Data Science, ETL and Git-
 💞️ I’m looking to collaborate on ... -Projects and Business Ideas-
 📫 How to reach me ... -barbieafrancisco@gmail.com-
-
-
 
