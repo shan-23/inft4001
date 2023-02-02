@@ -20,7 +20,7 @@ My W number is W0455447
 My email: lelacerda100@gmail.com
 W0482545
 
-------------------------------------------
+
 
 👋 Hi, I’m @Jazmine 
 👀 I’m interested in ... anything to solve a problem
@@ -28,3 +28,24 @@ W0482545
 💞️ I’m looking to collaborate on ... data related task
 📫 How to reach me ... -jazminengaji@gmail.com-
 💞️ Thank you  💞️💞️💞️💞️💞️💞️💞️
+
+
+Hi, I’m @patanley
+👀 I’m interested in all things -finance-
+🌱 I’m currently learning -business analytics-
+💞️ I’m looking to collaborate on -soccer analytis-
+📫 How to reach me ... -patanley09@mail.com-
+
+
+Hi Sanjay was here
+My W number is W0482545
+My email: Sanjaymehta615@gmail.com
+
+
+Hi, I'm Jude 
+I enjoy coding and development
+My W number is W0474724
+My email: juud0010@gmail.com
+W0474724
+
+
