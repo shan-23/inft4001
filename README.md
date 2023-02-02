@@ -90,3 +90,7 @@ W0474724
 💞️ I’m looking to collaborate on ... -Data process in various industries-
 📫 How to reach me ... -teketsu1205@gmail.com-
 
+👋 Hi, I’m @Kadeen
+👀 I’m interested in sleeping and netflix-
+🌱 I’m currently learning Github and Python -
+📫 How to reach me ... -W0469710@nscc.ca-
