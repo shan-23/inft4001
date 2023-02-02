@@ -49,18 +49,17 @@ My email: juud0010@gmail.com
 W0474724
 
 
-=======
+
 👋 Hi, I’m @luke_knock
 👀 I’m interested in ... -Sports, music and gaming-
 🌱 I’m currently learning ... - SSIS, Python and Git -
 💞️ I’m looking to collaborate on ... - Learning this websites basics -
 📫 How to reach me ... -lukemknock@gmail.com-
-=======
 
-=======
 👋 Hi, I’m @Barb2023
 👀 I’m interested in ... - Cooking, running , soju
 🌱 I’m currently learning ... - Everything about Data Science, ETL and Git-
 💞️ I’m looking to collaborate on ... -Projects and Business Ideas-
 📫 How to reach me ... -barbieafrancisco@gmail.com-
--- Sending again for approval
+
+
