@@ -31,4 +31,8 @@ My W number is W0474724
 My email: juud0010@gmail.com
 W0474724
 
-
+👋 Hi, Sanjay was here
+👀 I’m interested in ... -all things internet-
+🌱 I’m currently learning ... -Data analysis
+💞️ I’m looking forward to graduate
+📫 How to reach me ... sanjaymehta615@gmail.com
