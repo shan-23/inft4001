@@ -103,3 +103,8 @@ W0474724
 💞️ I’m looking to collaborate on ... -projects to help improve and develop my skills-
 📫 How to reach me ... -aishaakinyera@gmail.com-
 
+👋 Hi, I’m @Shaneil
+👀 I’m interested in ... -evangelism  and listening to music 
+🌱 I’m currently learning ... -Data Analytics
+💞️ I’m looking to collaborate on ... anything related to data management 
+📫 How to reach me ... -w0461431@campus.nscc.ca-
